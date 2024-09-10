@@ -1,6 +1,9 @@
 # Quizzler-App
 
 This repository contains a simple quiz application built using Python. The application fetches trivia questions from an external API and presents them to the user in a graphical interface. The user can answer "True" or "False" to each question, and the application keeps track of the score. The quiz ends when there are no more questions left.
+<br>
+
+<img src="quizzler.gif" alt="Quizzler-App" width="300"/>
 
 ## How It Works
 
